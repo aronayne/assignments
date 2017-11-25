@@ -1,0 +1,1 @@
+\sigma( w^T x + b) = \frac{1}{1 + e^{-(w^T x + b)}}
